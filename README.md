@@ -1,6 +1,4 @@
-ওকে! এই নাও পুরো কোড — **এটা পুরোটা কপি করো** (`<!DOCTYPE html>` থেকে `</html>` পর্যন্ত):
 
-```html
 <!DOCTYPE html>
 <html lang="bn">
 <head>
@@ -124,8 +122,7 @@
             <div class="section-title fade-in">
                 <h2>আমাদের পরিচিতি</h2>
                 <p>সমাজসেবা ও যুব উন্নয়নে প্রতিশ্রুতিবদ্ধ</p>
-                <div class="line"></div>
-            </div>
+                <div class="lindiv>
             <div class="about-content">
                 <div class="about-text fade-in">
                     <p><strong>ইসলাম নগর আলো প্রদীপ যুব সংগঠন</strong> একটি অলাভজনক সামাজিক সংগঠন যা এলাকার তরুণদের নিয়ে গঠিত। আমরা বিশ্বাস করি, তরুণদের সঠিক পথে পরিচালনা করতে পারলে একটি সুন্দর ও আলোকিত সমাজ গড়ে তোলা সম্ভব।</p>
@@ -152,4 +149,4 @@
                 <div class="activity-card fade-in"><div class="icon">📚</div><h3>শিক্ষা কার্যক্রম</h3><p>বিনামূল্যে কোচিং, বই বিতরণ, এবং শিক্ষা উপকরণ সরবরাহের মাধ্যমে শিক্ষার আলো ছড়িয়ে দেওয়া।</p></div>
                 <div class="activity-card fade-in"><div class="icon">🏥</div><h3>স্বাস্থ্যসেবা</h3><p>ফ্রি স্বাস্থ্য ক্যাম্প, রক্তদান কর্মসূচি এবং স্বাস্থ্য সচেতনতা প্রচারণা পরিচালনা।</p></div>
                 <div class="activity-card fade-in"><div class="icon">⚽</div>
-...(truncated)...
+...(truncated)..
